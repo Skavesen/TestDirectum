@@ -1,0 +1,17 @@
+C:\Users\vadim\Downloads\PhonePluginsApplication-master\GeneratorEmployeePlugin\bin\Debug\EmployeesViewer.Plugin.dll
+C:\Users\vadim\Downloads\PhonePluginsApplication-master\GeneratorEmployeePlugin\bin\Debug\EmployeesViewer.Plugin.pdb
+C:\Users\vadim\Downloads\PhonePluginsApplication-master\GeneratorEmployeePlugin\bin\Debug\EmployeesGenerator.Plugin.dll
+C:\Users\vadim\Downloads\PhonePluginsApplication-master\GeneratorEmployeePlugin\bin\Debug\EmployeesGenerator.Plugin.pdb
+C:\Users\vadim\Downloads\PhonePluginsApplication-master\GeneratorEmployeePlugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vadim\Downloads\PhonePluginsApplication-master\GeneratorEmployeePlugin\bin\Debug\NLog.dll
+C:\Users\vadim\Downloads\PhonePluginsApplication-master\GeneratorEmployeePlugin\bin\Debug\PhoneApp.exe
+C:\Users\vadim\Downloads\PhonePluginsApplication-master\GeneratorEmployeePlugin\bin\Debug\PhoneApp.pdb
+C:\Users\vadim\Downloads\PhonePluginsApplication-master\GeneratorEmployeePlugin\bin\Debug\PhoneApp.exe.config
+C:\Users\vadim\Downloads\PhonePluginsApplication-master\GeneratorEmployeePlugin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vadim\Downloads\PhonePluginsApplication-master\GeneratorEmployeePlugin\bin\Debug\NLog.xml
+C:\Users\vadim\Downloads\PhonePluginsApplication-master\GeneratorEmployeePlugin\obj\Debug\EmployeesGeneratorPlugin.csprojAssemblyReference.cache
+C:\Users\vadim\Downloads\PhonePluginsApplication-master\GeneratorEmployeePlugin\obj\Debug\EmployeesGeneratorPlugin.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Downloads\PhonePluginsApplication-master\GeneratorEmployeePlugin\obj\Debug\EmployeesGeneratorPlugin.csproj.CopyComplete
+C:\Users\vadim\Downloads\PhonePluginsApplication-master\GeneratorEmployeePlugin\obj\Debug\EmployeesGenerator.Plugin.dll
+C:\Users\vadim\Downloads\PhonePluginsApplication-master\GeneratorEmployeePlugin\obj\Debug\EmployeesGenerator.Plugin.pdb
+C:\Users\vadim\Downloads\PhonePluginsApplication-master\GeneratorEmployeePlugin\bin\Debug\EmployeesLoader.Plugin.dll
